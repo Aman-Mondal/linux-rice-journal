@@ -8,11 +8,11 @@ The goal was to create a minimal desktop that looks good while staying practical
 
 ### Desktop
 
-![Rice 01 Desktop](../../../screenshots/rice-01/desktop.png)
+![Rice 01 Desktop](/screenshots/rice-01/desktop.png)
 
 ### Terminal Setup
 
-![Rice 01 Terminal](../../../screenshots/rice-01/terminal.png)
+![Rice 01 Terminal](/screenshots/rice-01/terminal.png)
 
 ## Environment
 
